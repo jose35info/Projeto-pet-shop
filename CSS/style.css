@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+main{
+    width: 100%;
+    margin: auto;
+    font-family: 'Geologica', sans-serif;
+    color: white;
+    
+    
+}
+
+h2, h3, h4,h5{
+    text-transform: uppercase;
+    padding: 10px;
+    background-color: #2c3e50;
+    border-radius: 5px;
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+     }
+     .texto-principal{
+        color: #000000a9;
+     }
+     .texto-map{
+       
+        background-color: #2c3e50;
+     }
+
+.video-iframe{
+    padding: 20px;
+}
+
+    
+
+.maps{
+    width: 100%;
+    margin: auto;
+    border: solid 3px #2c3e50;
+}
+.col-maps{
+   padding: 5%;
+    
+}
+.card-1{
+    text-transform: uppercase;
+    background-color: #2c3e50;
+    padding: 10px;
+    width: 100%;
+    max-width: 300px;
+    margin: 5px 0 0 0;
+    display: inline-block;
+    align-items: center;
+}
+  
+.topo{
+    margin: 0.4px auto;
+    background-image: url(https://cdn.pixabay.com/photo/2017/07/12/03/44/dog-2495723_1280.jpg);
+    height: 80vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: 50% 20%;
+    opacity: rgba(0, 0, 0, 0.116);
+    
+    
+    
+    
+ 
+}
+h1{
+    
+    color: transparent;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 70%;
+    letter-spacing: 5px;
+    padding: 30px;
+    background-color: rgba(0, 0, 0, 0.308);
+    
+    
+    
+    
+
+}
+
+
+.topo-about{
+    width: 84.5%;
+    margin: auto;
+    padding: 30px;
+    opacity: 90%;
+    align-items: center;
+   
+    
+    
+}
+.topo-about{
+    display: flex;
+    gap: 30px;
+}
+
+    
+
+h2{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 40px;
+    
+}
+
+.img-about{
+    width: 100%;
+    max-width: 500px;
+    margin: 10px 0 10px 0;
+    border-radius: 1%;
+}
+
+
+
+.servicos{
+    margin-top: 50px;
+    
+}
+
+
+
+
+
+.img-serv{
+    
+    padding: 5% 0;
+    background-color: #1a1a6985;
+    margin: 0 0 5px 0;
+    
+
+}
+.video-serv{
+    padding: 5% ;
+    margin-top: 5px;
+    
+}
+.col-img1{
+    width: 100%;
+    max-width: 300px;
+}
+
+
